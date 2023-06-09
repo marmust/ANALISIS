@@ -12,7 +12,7 @@ print("DEBUG   --->   imported all libraries succesfully")
 # notes:
 # 1: dont spam api key im paying for this shit
 # 2: if CUDA GPU isnt found, it is possible to run on DEVICE, just change all the lines tagged with ^^ accordingly
-openai.api_key = "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"
+openai.api_key =                                                                                                                                                                                                                                                                                                                                                                                                                                                        "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"                                                                                                                                                                                                                                                                                           
 
 class_to_string = {0: "abrasion",
                    1: "allergic reaction",
